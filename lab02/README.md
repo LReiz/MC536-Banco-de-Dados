@@ -1,8 +1,8 @@
-## `lab02` - Modelos Lógicos através de API de Acesso
+## `lab02` - SQL no NHANES
 
 # Aluno
 * `239104`: `Leonardo Almeida Reis`
 
-## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
+## Tarefa sobre Consultas SQL no NHANES
 
-[Link para o notebook](notebook/lab2-logic-model-dbpedia.ipynb)
+[Link para o notebook](notebook/lab3-nhanes.ipynb)
