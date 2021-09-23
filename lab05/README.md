@@ -1,8 +1,24 @@
-## `lab05` - 
+## `lab05` - Marcadores e Taxonomia em Cypher
 
 # Aluno
 * `239104`: `Leonardo Almeida Reis`
 
-## Tarefa 
+## Tarefa de Cypher sobre Marcadores e Taxonomia
 
-[Link para o notebook](notebook/lab03-nhanes.ipynb)
+## Tarefa 1
+
+Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços`, sem considerar as categorias subordinadas.
+
+### Resolução
+~~~cypher
+(escreva aqui a resolução em Cypher)
+~~~
+
+## Tarefa 2
+
+Escreva em Cypher uma consulta que retorne os marcadores da categoria `Serviços`, considerando as categorias subordinadas.
+
+### Resolução
+~~~cypher
+(escreva aqui a resolução em Cypher)
+~~~
