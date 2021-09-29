@@ -1,4 +1,4 @@
-# `lab06` - Artigo de Dataset Público
+## `lab06` - Artigo de Dataset Público
 
 # Aluno
 * `239104`: `Leonardo Almeida Reis`
