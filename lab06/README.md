@@ -7,19 +7,23 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `<referência bibliográfica do artigo>` |
+| referência | `Referências no final do PDF do link` |
 | link       | `https://drive.google.com/file/d/106Ps__OM8ryapvP958FAIyhEWkzf_XfS/view` |
 | dataset | `https://labnet.nce.ufrj.br/files/CSGO_Dataset/` |
 | formato | `Apache Parquet` |
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
+> O artigo busca coletar e disponibilizar informações de várias partidas extraídas de campeonatos profissionais do jogo Counter-Strike Global Offensive. Tais dados expoem tanto informações "high-level" (como data da partida, placar, jogadores e time) quanto informações "low-level" (como posição dos jogadores a cada frame, momento dos tiros disparado por cada arma e morte de cada jogador). Esses dados visam possibilitar futuras análises mais profundas do jogo a partir do relacionamento entro os dados mais abrangentes com os dados mais detalhados.
 
 ## Perguntas de pesquisa/análises
 
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
+> Como a movimentação dos jogadores pelo mapa influenciana vitória? 
+> Quais são as estratégias mais adotadas e as que mais tem sucesso?
+> Como identificar cheaters (trapaceiros) a partir do comportamento do jogador?
 
 ## Trabalhos relacionados
 
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
+> [Varvello and Voelker 2010, Varvello et al. 2008] - Uma das primeiras iniciativas de extração de dados de jogos, feita no Second Life.
+> [Xenopoulos et al. 2020] - Projeto open source extração de dados feita no Couter-Strike, porém os dados não são publicamente acessíveis.
+> [Bednarek et al. 2017] - Extração e análise de dados do jogo Counter-Strike que busca prever a performance de um jogador.
