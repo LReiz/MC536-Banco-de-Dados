@@ -7,7 +7,7 @@
 
 | campo | valor |
 |------------|----------------------------------------|
-| referência | `Referências no final do PDF do link` |
+| referência | `Referências ao final do PDF do link` |
 | link       | `https://drive.google.com/file/d/106Ps__OM8ryapvP958FAIyhEWkzf_XfS/view` |
 | dataset | `https://labnet.nce.ufrj.br/files/CSGO_Dataset/` |
 | formato | `Apache Parquet` |
