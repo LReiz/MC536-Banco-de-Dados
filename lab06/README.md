@@ -17,6 +17,8 @@
 > O artigo busca coletar e disponibilizar informações de várias partidas extraídas de campeonatos profissionais do jogo Counter-Strike Global Offensive. Tais dados expoem tanto informações "high-level" (como data da partida, placar, jogadores e time) quanto informações "low-level" (como posição dos jogadores a cada frame, momento dos tiros disparado por cada arma e morte de cada jogador). Esses dados visam possibilitar futuras análises mais profundas do jogo a partir do relacionamento entro os dados mais abrangentes com os dados mais detalhados.
 >  
 >  O banco de dados foi construído no formato Apache Parquet em vez de CSV afim de utilizar menos espaçode disco. Além disso, afim de otimizar a análise dos dados, o banco foi construído em formato de colunas, possibilitando a leitura apenas das informações necessárias de cada tabela.
+>  
+>  ![Volume dos Dados em CSV vs Apache Parquet](images/csv-vs-apache.png)
 
 ## Perguntas de pesquisa/análises
 
