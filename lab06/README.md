@@ -19,11 +19,15 @@
 ## Perguntas de pesquisa/análises
 
 > Como a movimentação dos jogadores pelo mapa influenciana vitória? 
+> 
 > Quais são as estratégias mais adotadas e as que mais tem sucesso?
+> 
 > Como identificar cheaters (trapaceiros) a partir do comportamento do jogador?
 
 ## Trabalhos relacionados
 
 > [Varvello and Voelker 2010, Varvello et al. 2008] - Uma das primeiras iniciativas de extração de dados de jogos, feita no Second Life.
+> 
 > [Xenopoulos et al. 2020] - Projeto open source extração de dados feita no Couter-Strike, porém os dados não são publicamente acessíveis.
+> 
 > [Bednarek et al. 2017] - Extração e análise de dados do jogo Counter-Strike que busca prever a performance de um jogador.
