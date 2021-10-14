@@ -11,7 +11,6 @@
 
 ## Perguntas de Pesquisa/análise
 
-> Liste aqui as três perguntas de pesquisa/análise
 > * As fobias de uma pessoa têm influência no seu interesse musical?
 > * Como o interesse em determinados gêneros musicais se relaciona com o interesse em determinados gêneros de filme?
 > * Características físicas tem influência no gosto musical da pessoa?
