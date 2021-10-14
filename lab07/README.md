@@ -11,4 +11,6 @@
 
 ## Perguntas de Pesquisa/análise
 
-
+> * Como o gosto por filmes influencia no gosto musical?
+> * Pessoas religiosas tendem a preferir que gênero musical?
+> * O interesse na política tem influência no gosto musical?
