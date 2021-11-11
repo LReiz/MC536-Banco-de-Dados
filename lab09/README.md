@@ -5,10 +5,10 @@
 
 ## Exemplo de Grafo de Conhecimento - para publicar ou enriquecer
 >
-> Você pode usar um grafo ilustrando as classes, como este:
+> Modelo:
 > ![Modelo Lógico de Grafos](images/grafo-conhecimento-classes.png)
 >
-> Além de outro com exemplo de instâncias, como este:
+> Exemplo real:
 > ![Modelo Lógico de Grafos](images/grafo-conhecimento-exemplo.png)
 
 
