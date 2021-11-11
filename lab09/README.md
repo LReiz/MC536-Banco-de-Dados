@@ -6,10 +6,10 @@
 ## Exemplo de Grafo de Conhecimento - para publicar ou enriquecer
 >
 > Modelo:
-> ![Modelo Lógico de Grafos](images/grafo-conhecimento-classes.png)
+> ![Modelo Lógico de Grafos](images/modelo-grafo.png)
 >
 > Exemplo real:
-> ![Modelo Lógico de Grafos](images/grafo-conhecimento-exemplo.png)
+> ![Modelo Lógico de Grafos](images/exemplo-grafo.png)
 
 
 ## Perguntas de Pesquisa ou Queries
